@@ -5,7 +5,6 @@ This project aims to analyze carbon emissions across various industries using pu
 The dataset includes:
 - Product-level carbon footprint (PCF)
 - Company and industry group info
-- Emission stages: upstream, operational, downstream
 
 ## 🛠️ Tools Used
 - SQL

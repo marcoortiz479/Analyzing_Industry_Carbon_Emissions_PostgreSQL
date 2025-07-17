@@ -1,4 +1,4 @@
-# Analyzing Industry Carbon Emissions | PostgreSQL (June 2024)
+# Analyzing Industry Carbon Emissions | PostgreSQL (May 2024)
 This project aims to analyze carbon emissions across various industries using publicly available datasets. The goal is to identify trends, high-emission sectors, and potential areas for improvement using statistical methods and data visualization to view reporting.
 ## 📊 Dataset Overview
 

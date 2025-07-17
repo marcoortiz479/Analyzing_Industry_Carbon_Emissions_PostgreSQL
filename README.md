@@ -9,6 +9,7 @@ The dataset includes:
 ## 🛠️ Tools Used
 - PostgreSQL
 - GitHub
+- Jupyter Notebook
 
 ## 🔍 Key Query
 ```sql

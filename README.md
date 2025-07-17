@@ -1,4 +1,4 @@
-# Analyzing Industry Carbon Emissions | SQL
+# Analyzing Industry Carbon Emissions | PostgreSQL
 This project aims to analyze carbon emissions across various industries using publicly available datasets. The goal is to identify trends, high-emission sectors, and potential areas for improvement using statistical methods and data visualization to view reporting.
 ## 📊 Dataset Overview
 
@@ -7,7 +7,6 @@ The dataset includes:
 - Company and industry group info
 
 ## 🛠️ Tools Used
-- SQL
 - PostgreSQL
 - GitHub
 
